@@ -1,0 +1,56 @@
+/* @media (max-width:1024px) {}
+
+
+@media (max-width:991px) {
+    .text-content {
+        width: 100%;
+    }
+
+    .navigation-wrap .navbar-brand img {
+        height: 3.8125rem;
+    }
+
+    .navigation-wrap {
+        text-align: center;
+        background-color: var(--white-color);
+
+    }
+
+    .navigation-wrap .nav-link {
+        line-height: 1.875rem;
+    }
+
+    .top-banner {
+        padding: 9.375rem 0 9.375rem;
+    }
+}
+
+:root {
+    --primary-color: #A82C48;
+    --secondar-color: #43121d;
+    --third-color: #f98169;
+    --white-color: #fff;
+    --text-color: #555;
+    --test-gray: #999;
+    --black-color: #000;
+    --primary-font: 'Roboto', sans-serif;
+    --secondary-font: 'Quicksand', sans-serif;
+}
+
+
+@media (max-width:767px) {
+
+    h1 {
+        font-size: 2.8rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+        line-height: 2.0625rem;
+    }
+
+    .top-banner {
+        padding: 10.875rem 0 9.375rem;
+    }
+
+} */
